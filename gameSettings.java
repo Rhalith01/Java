@@ -1,3 +1,5 @@
+//A game menu adapted to Java
+
 import java.util.Scanner;
 
 public class gameSettings {
